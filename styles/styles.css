@@ -1,0 +1,19 @@
+.head1{
+    font-size: 40px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.subhead{
+    font-size: 15px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+}
+
+.button1{
+    background-color: rgba(230, 217, 217, 0.75);
+    color: black;
+    border: none;
+    padding: 5px;
+    margin: auto;
+    border-radius: 10px;
+}
